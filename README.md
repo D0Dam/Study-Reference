@@ -4,5 +4,5 @@
 ---------------------------------
 ### 1. Mozilla
 
- 접속 링크 : https://developer.mozilla.org/ko/
- HTML, CSS, JS 등의 태그 및 엘리먼트들을 확인하고 설명 및 예시를 참고할 수 있다.
+###### 접속 링크 : https://developer.mozilla.org/ko/
+###### HTML, CSS, JS 등의 태그 및 엘리먼트들을 확인하고 설명 및 예시를 참고할 수 있다.
