@@ -5,6 +5,7 @@
 ### 1. Mozilla
 ###### 접속 링크 : https://developer.mozilla.org/ko/
 ###### HTML, CSS, JS 등의 태그 및 엘리먼트들을 확인하고 설명 및 예시를 참고할 수 있다.
+###### media queries-> 이건 반응형 웹을 만드는 필요함. MDN에서 모를 떄 찾아보자.
 ---------------------------------
 ### 2. JS Bin, jsfiddle, codesandbox
 ###### 접속링크 : https://jsbin.com/
@@ -57,3 +58,13 @@
 ###### 자동완성 기능을 제공함.(Tab키 사용)
 ##### LIVE SERVER
 ###### 프로그래밍 하고 있는 웹 사이트 새로고침을 알아서 해줌.
+##### HTML to CSS autocompletion
+###### 자동완성 기능을 제공함.(HTML에서 정의한 걸 CSS에서, Tab키 사용)
+-----------------------------
+### 10. Font awsome
+###### 접속 링크 : https://fontawesome.com/
+###### 다양한 이모티콘 폰트 로고 등을 얻을 수 있다.
+-----------------------------
+### 11. google font
+###### 접속 링크 : https://fonts.google.com/
+###### 다양한 폰트를 웹 사이트에 적용시킬 수 있다.
