@@ -38,4 +38,22 @@
 ### 9. VSC(Visual Studio Code)
 ###### 검색 후 설치해야함.
 ###### 강력한 텍스트 에디터 툴이다.
-- ##### 
+- #### VSC에서 유용한 10 extention
+##### Material theme
+###### VSC의 다양한 테마 제공
+##### Material icon theme
+###### VSC의 다양한 아이콘 테마 제공
+##### Prettier
+###### Code Formatter임. 세팅값에서 여러가지를 바꿀 수 있음.
+##### bracket pair colorizer2
+###### 각 중괄호 묶음마다의 색깔을 달리해서 알아보기 쉽게 해 줌.
+##### Indent-rainbow
+###### Tab한 공간에 무지개 색을 채워넣어줌.
+##### Auto rename tag 
+###### Tag 한쪽만 수정해도 양 쪽의 Tag를 동시 수정 가능하게 해 줌.
+##### CSS PEEK
+###### HTML에서 작성한 id나 class 값에 대해 CSS 파일 어디에서 쓰여졌는지 컨트롤+클릭 커멘드로 바로 볼 수 있게 해줌.
+##### HTML CSS SUPPORT
+###### 자동완성 기능을 제공함.(Tab키 사용)
+##### LIVE SERVER
+###### 프로그래밍 하고 있는 웹 사이트 새로고침을 알아서 해줌.
