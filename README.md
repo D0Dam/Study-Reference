@@ -84,3 +84,15 @@
 - #### JSON validator
 ###### 접속 링크 : https://jsonlint.com
 ###### JSON이 올바르게 작성되었는지 확인할 수 있다. 오류가 있을 때 이 사이트에서 확인 가능하다.
+-----------------------------
+### 14. Pinterest, Dribble
+###### 접속 링크 : https://www.pinterest.co.kr/, https://dribbble.com/
+###### 웹 디자인을 참고할 수 있음.responsive web, moblie app 등을 검색해서 볼 것.
+------------------------------
+### 15. codepen.io
+###### 접속 링크 : https://codepen.io/
+###### 웹에서 사용되는 효과들이나 방식들을 코드와 함께 볼 수 있다.
+----------------------------
+### 16. TodoMVC
+###### 접속 링크 : http://todomvc.com/
+###### 다양한 언어로 만들어진 Todo 리스트를 확인 할 수 있다.(추가설명 필요 다시 좀 더 찾아볼 것.)
