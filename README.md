@@ -70,4 +70,17 @@
 --------------------------------
 ### 12. where by
 ###### 접속 링크 : https://whereby.com/
-###### 화면 공유를 렉없이 쉽게 웹으로 할 수 있는 사이트.
+###### 화면 공유를 렉없이 쉽게 웹으로 할 수 있는 사이트. 전화 및 화상통화 기능도 있다.
+--------------------------------
+### 13. LearnningTools
+###### 접속 링크 : https://tools.learningcontainer.com
+###### 다양한 툴 제공. 대표적 예시는 다음과 같다.
+- ####  JSON diff
+###### 접속 링크 : http://www.jsondiff.com/
+###### The semantic JSON compare tool
+- #### JSON formatter
+###### 접속 링크 : https://jsonformatter.org
+###### 깨진 json의 정보들을 이쁘게 edit 해주거나(beautifier) object형태로 볼 수 있게(Parser) 해준다.
+- #### JSON validator
+###### 접속 링크 : https://jsonlint.com
+###### JSON이 올바르게 작성되었는지 확인할 수 있다. 오류가 있을 때 이 사이트에서 확인 가능하다.
