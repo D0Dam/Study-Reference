@@ -101,5 +101,7 @@
 ###### 접속 링크 : https://pxtoem.net/
 ###### px값을 em 등 다른 값으로 바꾸어 준다.
 ----------------------------
-### 라이프사이클 api https://velog.io/@ejchaid/React%EC%9D%98-%ED%95%84%EC%88%98%EC%9A%94%EA%B1%B4-LifeCycle-API-g8k2lj2la
-https://bytrustu.tistory.com/65 깃허브연동vsc
+### ect) 도움이 될만한 사이트
+###### 라이프사이클 api : https://velog.io/@ejchaid/React%EC%9D%98-%ED%95%84%EC%88%98%EC%9A%94%EA%B1%B4-LifeCycle-API-g8k2lj2la
+###### 깃허브연동vsc : https://bytrustu.tistory.com/65
+###### java등 설명 잘되있음 : https://limkydev.tistory.com/
