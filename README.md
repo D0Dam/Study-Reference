@@ -1,5 +1,5 @@
-# Web Studing Reference
-##### 이 repository는 웹 공부를 하면서 참조할 수 있는 여러가지 자료를 모아두고 있습니다.
+# Studing Reference
+##### 이 repository는 공부를 하면서 참조할 수 있는 여러가지 자료를 모아두고 있습니다.
 ---------------------------------
 ### 1. Mozilla
 ###### 접속 링크 : https://developer.mozilla.org/ko/
